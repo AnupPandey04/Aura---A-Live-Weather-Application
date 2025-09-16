@@ -1,0 +1,13 @@
+.InfoBox{
+    text-align: center;
+}
+
+.cardContainer{
+    border: 2px solid black;
+    width: 300px;
+    margin: auto;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 15px grey;
+    background-color: #f0f0f0;
+}
