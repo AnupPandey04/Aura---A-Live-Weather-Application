@@ -37,14 +37,14 @@ Check out the live demo here: [Aura Weather App](https://aura-a-live-weather-app
 Follow these steps to run the project locally:
 
 1. **Clone the repository:**
-```bash
-git clone https://github.com/yourusername/aura-weather-app.git
-cd aura-weather-app
-```
+   ```bash
+   git clone https://github.com/AnupPandey04/Aura---A-Live-Weather-Application.git
+   Aura---A-Live-Weather-Application
+   ```
 2. Install dependencies:
-```bash
-npm install
-```
+   ```bash
+   npm install
+   ```
 3. Set up environment variables:
    Create a .env file in the root directory and add your OpenWeatherMap API key:
    ```bash
